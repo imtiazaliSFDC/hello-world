@@ -1,2 +1,2 @@
-# hello-world
+# language-courses
 My first repository on GitHub
